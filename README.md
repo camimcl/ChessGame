@@ -41,6 +41,15 @@ Individual pieces (like Rook and Pawn) override methods from the ChessPiece clas
 The game is divided into different layers, such as the logic layer, to define the rules for moving the pieces, and the presentation layer
 
 
+### Preview
+
+![image](https://github.com/user-attachments/assets/19caa863-1528-422d-bebe-17f87da47e24)
+![image](https://github.com/user-attachments/assets/2d6e98d0-2d46-49fc-beb2-324c81ecbc57)
+![image](https://github.com/user-attachments/assets/e43facb0-978f-4667-b511-165768012636)
+
+
+
+
   
 ### Tools
 - Intellij
