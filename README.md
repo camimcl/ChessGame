@@ -38,7 +38,7 @@ Used to define the types of parts and colors, ensuring greater clarity and organ
 Individual pieces (like Rook and Pawn) override methods from the ChessPiece class to define their specific moves.
 
 
-- **Layers pattern**
+- **Layers pattern**\
 The game is divided into different layers, such as the logic layer, to define the rules for moving the pieces, and the presentation layer
 
 
