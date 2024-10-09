@@ -2,8 +2,7 @@
 This repo is intended for a chessGame in Java, i used oop fundamentals to build this during my Java course on Udemy.
 These concepts were used to create a functional chess structure that can still be expanded and refined.
 Using OOP in this project makes the code more modular and scalable, making it easy for future improvements, such as the inclusion of new rules or a graphical interface.
-This project is a great example of how fundamental programming concepts can be applied in a practical context​
-here I only used Java to develop this small skeleton of the game, it's working, but I still plan to improve it.
+This project is a great example of how fundamental programming concepts can be applied in a practical context​.
 
 ## Objective 
 train my fundamentals in object orientation and the core of java.
