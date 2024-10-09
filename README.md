@@ -10,7 +10,7 @@ train my fundamentals in object orientation and the core of java.
 
 ## Fundamentals  
   ### Here's how i used the fundamentals 
-- **Polymorphism and Enheritance**\
+- **Polymorphism and inheritance**\
 allow parts to share common characteristics and implement their specific behaviors.
 
 
